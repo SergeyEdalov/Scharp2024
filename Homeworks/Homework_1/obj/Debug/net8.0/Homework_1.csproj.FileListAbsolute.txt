@@ -1,0 +1,14 @@
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\bin\Debug\net8.0\Homework_1.exe
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\bin\Debug\net8.0\Homework_1.deps.json
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\bin\Debug\net8.0\Homework_1.runtimeconfig.json
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\bin\Debug\net8.0\Homework_1.dll
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\bin\Debug\net8.0\Homework_1.pdb
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.AssemblyInfoInputs.cache
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.AssemblyInfo.cs
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.csproj.CoreCompileInputs.cache
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.dll
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\refint\Homework_1.dll
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.pdb
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.genruntimeconfig.cache
+D:\Study_programmist\Курс. Разработка приложений на C#\Homeworks\Homework_1\obj\Debug\net8.0\ref\Homework_1.dll
